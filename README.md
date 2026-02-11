@@ -2,11 +2,14 @@
 Modified the modpack all of the mod 9 for make it compatible with Arclight.
 
 2 mods is removed : canary and RSInfinityBooster.
+
+My server actually work with last snapshot.
 ## French Section
 J'ai modifier le modpack All of the mod 9 pour faire en sorte qu'il sois compatible avec le serveur Hybride Arclight.
 
 2 mods ont été supprimée : canary et RSInfinityBooster.
 
+Mon serveur marche avec la dernière snapshot de Arclight.
 ### Comment j'ai fais ?
 Tous d'abord, pour ouvrir le modpack, j'ai utiliser le launcher Prism qui peut ouvrir les modspack fais sous Forge (en plus, quand on crée une instance, on peut aussi le télécharger dans Prsim.).
 
@@ -25,3 +28,4 @@ I basically wanted the server mods, so I went to the mod's Forge page and looked
 Except that I have an Arclight server and some mods aren't possible.
 
 To sort through the valid and invalid mods, I added them in alphabetical order, group by group (e.g. put the A's first, then the B's), and launched the server with those mods. I did this while adding the dependencies they had (usually libraries, so it's rare that this is the problem).
+(By Deepl, sorry)
